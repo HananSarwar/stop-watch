@@ -69,3 +69,16 @@ body{
 .light .btn:hover{
     color: #ddd;
 }
+.resetbtn{
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    transition: 0.3s;
+    background-color:#fff ;
+    color: black;
+    font-weight: bold;    
+}
+
